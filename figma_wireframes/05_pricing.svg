@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="272" viewBox="0 0 960 272">
+  <rect width="960" height="272" fill="#0f0f16"/>
+  <text x="40" y="36" font-family="Inter" font-size="22" fill="#e7e7ec">Pricing</text>
+  <rect x="40" y="60" width="880" height="44" rx="8" fill="#1b1b26" stroke="#2a2a3a"/>
+<text x="52" y="88" font-family="Inter" font-size="18" fill="#9aa0b4">План Starter</text><rect x="40" y="124" width="880" height="44" rx="8" fill="#1b1b26" stroke="#2a2a3a"/>
+<text x="52" y="152" font-family="Inter" font-size="18" fill="#9aa0b4">План Pro</text><rect x="40" y="188" width="880" height="44" rx="8" fill="#1b1b26" stroke="#2a2a3a"/>
+<text x="52" y="216" font-family="Inter" font-size="18" fill="#9aa0b4">План Business</text>
+</svg>

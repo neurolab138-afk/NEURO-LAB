@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="336" viewBox="0 0 960 336">
+  <rect width="960" height="336" fill="#0f0f16"/>
+  <text x="40" y="36" font-family="Inter" font-size="22" fill="#e7e7ec">Hero / Cover</text>
+  <rect x="40" y="60" width="880" height="44" rx="8" fill="#1b1b26" stroke="#2a2a3a"/>
+<text x="52" y="88" font-family="Inter" font-size="18" fill="#9aa0b4">Заголовок</text><rect x="40" y="124" width="880" height="44" rx="8" fill="#1b1b26" stroke="#2a2a3a"/>
+<text x="52" y="152" font-family="Inter" font-size="18" fill="#9aa0b4">Подзаголовок</text><rect x="40" y="188" width="880" height="44" rx="8" fill="#1b1b26" stroke="#2a2a3a"/>
+<text x="52" y="216" font-family="Inter" font-size="18" fill="#9aa0b4">Кнопки CTA</text><rect x="40" y="252" width="880" height="44" rx="8" fill="#1b1b26" stroke="#2a2a3a"/>
+<text x="52" y="280" font-family="Inter" font-size="18" fill="#9aa0b4">Фоны/Иллюстрация</text>
+</svg>
