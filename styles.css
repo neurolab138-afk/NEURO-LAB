@@ -437,9 +437,6 @@ details.faq summary {
 
 .footer-icons {
   position: absolute;
-  display: flex;
-  justify-content: flex-end;
-  flex-wrap: wrap;
   top: 3850px;
   gap: 20px;
   right: 470px;
