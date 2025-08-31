@@ -435,12 +435,22 @@ details.faq summary {
   }
 }
 
-.footer__nav_2 {
-  position: absolute; 
-  display: grid;
-  grid-auto-flow: column;
-  gap: 35px;
-  width: 250px;
-  right: 400px;
-  top: 3950px;
+.footer-icons {
+  position: absolute;
+  display: flex;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  top: 3850px;
+  gap: 20px;
+  right: 470px;
+}
+
+.footer-icons a img {
+  width: 32px;
+  height: 32px;
+  transition: transform 0.3s ease;
+}
+
+.footer-icons a img:hover {
+  transform: scale(1.2);
 }
